@@ -1,0 +1,2 @@
+include ':connect_3_app'
+rootProject.name = "Connect 3 Udemy"
